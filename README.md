@@ -1,26 +1,4 @@
-# Web<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Web Browsers Info Table</title>
-  <style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-family: Arial, sans-serif;
-    }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 12px;
-      text-align: center;
-    }
-    th {
-      background-color: #f4f4f4;
-    }
-    img {
-      width: 32px;
-      height: 32px;
-    }
+ Web
   </style>
 </head>
 <body>
