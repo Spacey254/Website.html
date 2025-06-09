@@ -1,8 +1,4 @@
-</head>
-<body>
-
 <h2>Browser Information Table</h2>
-
 <table>
   <thead>
     <tr>
